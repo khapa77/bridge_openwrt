@@ -1,5 +1,8 @@
 # Настройки Openwrt для переключения в работу моста.
 
+![Static Badge](https://img.shields.io/badge/build-passing-brightgreen)
+
+
 IP адреса будут передаваться от DCHP-сервера "сверху"
 
 Полезно для CPE220, например.
